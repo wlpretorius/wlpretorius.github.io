@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wlpretorius.github.io/regulations/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wlpretorius.github.io/regulations/regulations/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wlpretorius.github.io/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wlpretorius.github.io/categories/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,13 +32,7 @@
     <loc>https://wlpretorius.github.io/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wlpretorius.github.io/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wlpretorius.github.io/regulations/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wlpretorius.github.io/regulations/rich-content/</loc>
+    <loc>https://wlpretorius.github.io/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wlpretorius.github.io/posts/more-rich-content/</loc>
@@ -50,7 +53,7 @@
     <loc>https://wlpretorius.github.io/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wlpretorius.github.io/regulations/placeholder-text/</loc>
+    <loc>https://wlpretorius.github.io/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wlpretorius.github.io/about/</loc>
