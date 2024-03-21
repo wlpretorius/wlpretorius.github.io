@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Willem Pretorius</title>
-    <link>https://wlpretorius.github.io/</link>
-    <description>Recent content on Willem Pretorius</description>
+    <title>Abouts on Willem Pretorius</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wlpretorius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://wlpretorius.github.io/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>Welcome! I&amp;rsquo;m Willem Pretorius, a seasoned Credit Model Developer currently shaping the future of credit analytics at Rabobank Netherlands. With a robust academic background holding an MCom in Mathematical Statistics from the University of Stellenbosch, South Africa, my professional journey weaves through the intricate world of credit risk modelling.&#xA;At Rabobank, I spearhead the development of A-IRB PD, LGD, and EAD models with a specialized focus on the Agricultural portfolio, leveraging my deep experience across PD, LGD, EAD, IFRS9, and Stress Testing models.</description>
     </item>
   </channel>
