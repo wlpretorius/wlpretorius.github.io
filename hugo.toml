@@ -2,8 +2,6 @@ baseURL = 'https://wlpretorius.github.io/'
 languageCode = 'en-us'
 title = 'Willem Pretorius'
 theme = 'hugo-coder'
-languageCode = "en"
-defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 
