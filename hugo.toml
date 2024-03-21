@@ -29,7 +29,7 @@ noClasses = false
     weight = 2
     url = "https://medium.com/@willempretorius"
 
-[[menu.main]]
-  name = "About"
-  weight = 1
-  url = "/about/"
+    [[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
