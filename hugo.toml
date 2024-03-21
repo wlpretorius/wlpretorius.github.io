@@ -17,3 +17,15 @@ noClasses = false
   colorScheme = "dark"
   hideColorSchemeToggle = false
   maxSeeAlsoItems = 5
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/wlpretorius/"
+
+[[params.social]]
+  name = "Medium"
+  icon = "fa-brands fa-medium fa-2x"
+  weight = 2
+  url = "https://medium.com/@willempretorius"
