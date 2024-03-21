@@ -100,11 +100,11 @@
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
     <item>
-      <title>Contact</title>
+      <title></title>
       <link>https://wlpretorius.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wlpretorius.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <description>&#xD;Get in Touch!&#xD;Link to heading&#xD;I&amp;rsquo;d love to hear from you. Whether you have a question, a proposal, or simply want to say hello, feel free to reach out. Below you&amp;rsquo;ll find the best ways to contact me.&#xA;Other Ways to Contact Me&#xD;Link to heading&#xD;Email: wlpretorius@outlook.com LinkedIn: LinkedIn </description>
     </item>
   </channel>
 </rss>
