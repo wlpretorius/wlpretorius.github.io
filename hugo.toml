@@ -28,3 +28,8 @@ noClasses = false
     icon = "fa-brands fa-medium fa-2x"
     weight = 2
     url = "https://medium.com/@willempretorius"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "/about/"
