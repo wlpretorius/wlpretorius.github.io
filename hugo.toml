@@ -48,16 +48,21 @@ noClasses = false
     url = "/posts/"
 
     [[menu.main]]
-    name = "Academic Papers"
+    name = "Regulations"
     weight = 3
+    url = "/regulations/"   
+
+    [[menu.main]]
+    name = "Academic Papers"
+    weight = 4
     url = "/papers/papers"
 
     [[menu.main]]
     name = "Books"
-    weight = 4
+    weight = 5
     url = "/books/books"
 
     [[menu.main]]
     name = "Contact me"
-    weight = 5
+    weight = 6
     url = "/contact/"
