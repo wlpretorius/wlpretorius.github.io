@@ -1,4 +1,26 @@
 baseURL = 'https://wlpretorius.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Willem Pretorius'
 theme = 'hugo-coder'
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+enableEmoji = true
+
+[markup.highlight]
+noClasses = false
+
+[params]
+  author = "Willem Pretorius"
+  description = "Willem Pretorius's personal website"
+  info = ["Credit Risk Modeller | Quant | Financial Engineer"]
+  avatarURL = "/images/avatar.jpg"
+  dateFormat = "20 March 2024"
+  since = 2024
+  colorScheme = "dark"
+  hideColorSchemeToggle = false
+  maxSeeAlsoItems = 5
+  customCSS = []
+  customSCSS = []
+  customJS = []
+  customRemoteJS = []
