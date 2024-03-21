@@ -12,10 +12,18 @@ noClasses = false
   author = "Willem Pretorius"
   description = "Willem Pretorius's personal website"
   info = ["Credit Risk Modeller | Quant | Financial Engineer"]
-  dateFormat = "20 March 2024"
+  #dateFormat = "20 March 2024"
   since = 2024
   colorScheme = "dark"
   hideColorSchemeToggle = false
+  customCSS = []
+  customSCSS = []
+  customJS = []
+  customRemoteJS = []
+
+    [taxonomies]
+    category = "categories"
+    series = "series"
 
     [[params.social]]
     name = "LinkedIn"
@@ -33,3 +41,23 @@ noClasses = false
     name = "About"
     weight = 1
     url = "/about/"
+
+    [[menu.main]]
+    name = "Posts"
+    weight = 2
+    url = "/posts/"
+
+    [[menu.main]]
+    name = "Academic Papers"
+    weight = 3
+    url = "/papers/papers"
+
+    [[menu.main]]
+    name = "Books"
+    weight = 4
+    url = "/books/books"
+
+    [[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "/contact/"
