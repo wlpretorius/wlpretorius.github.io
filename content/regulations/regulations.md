@@ -41,7 +41,7 @@ In no specific order of importance:
 | 28 | [Guidelines on loan origination and monitoring](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/Guidelines%20on%20loan%20origination%20and%20monitoring/884283/EBA%20GL%202020%2006%20Final%20Report%20on%20GL%20on%20loan%20origination%20and%20monitoring.pdf) | 2020 | 89 | EBA |
 | 29 | [RTS under Article 178(6) on the materiality threshold](https://www.eba.europa.eu/activities/single-rulebook/regulatory-activities/credit-risk/regulatory-technical-standards-3) | 2016 | 50 | EBA |
 | 30 | [Guidelines for the estimation of LGD appropriate for an economic downturn (‘Downturn LGD estimation’)](https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-guidelines-estimation-lgd-under-economic) | 2019 | 80 | EBA |
-| 31 | [Guidelines on Credit Risk Mitigation for institutions applying the IRB approach with own estimates of LGDs](https://www.eba.europa.eu/guidelines-credit-risk-mitigation-institutions-applying-irb-approach-own-estimates-lgds) | 2020 | 803 | EBA |
+| 31 | [Guidelines on Credit Risk Mitigation for institutions applying the IRB approach with own estimates of LGDs](https://www.eba.europa.eu/guidelines-credit-risk-mitigation-institutions-applying-irb-approach-own-estimates-lgds) | 2020 | 60 | EBA |
 | 32 | [CDR specifying the nature, severity and duration of an economic downturn](https://eur-lex.europa.eu/eli/reg_del/2021/930/oj) | 2021 | 6 | EBA |
 | 33 | [COVID-19 Principles](https://www.eba.europa.eu/publications-and-media/press-releases/eba-clarifies-use-covid-19-impacted-data-internal-credit-risk) | 2022 | 6 | EBA |
 
