@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Willem Pretorius</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://wlpretorius.github.io/posts/</link>
     <description>Recent content in Posts on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wlpretorius.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science in Credit Risk: Compliant Economic Cycle and Downturn Identification for PDs and LGDs Using Python</title>
-      <link>http://localhost:1313/posts/3.-downturn-identification/</link>
+      <link>https://wlpretorius.github.io/posts/3.-downturn-identification/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/3.-downturn-identification/</guid>
+      <guid>https://wlpretorius.github.io/posts/3.-downturn-identification/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an overview to Downturn Identification methods in AIRB portfolios to ensure regulatory compliance. In the future, these articles will be embedded into this site and available for free.</description>
     </item>
     <item>
       <title>An Introduction to Credit Risk in Banking: BASEL, IFRS9, Pricing, Statistics, Machine Learning — PART 2</title>
-      <link>http://localhost:1313/posts/2.-introduction-to-credit-risk/</link>
+      <link>https://wlpretorius.github.io/posts/2.-introduction-to-credit-risk/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2.-introduction-to-credit-risk/</guid>
+      <guid>https://wlpretorius.github.io/posts/2.-introduction-to-credit-risk/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an introduction and overview to basic Credit Risk termonology and ideas (Part 2). In the future, these articles will be embedded into this site and available for free.</description>
     </item>
     <item>
       <title>An Introduction to Credit Risk in Banking: BASEL, IFRS9, Pricing, Statistics, Machine Learning — PART 1</title>
-      <link>http://localhost:1313/posts/1.-introduction-to-credit-risk/</link>
+      <link>https://wlpretorius.github.io/posts/1.-introduction-to-credit-risk/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1.-introduction-to-credit-risk/</guid>
+      <guid>https://wlpretorius.github.io/posts/1.-introduction-to-credit-risk/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an introduction and overview to basic Credit Risk termonology and ideas. In the future, these articles will be embedded into this site and available for free.</description>
     </item>
   </channel>

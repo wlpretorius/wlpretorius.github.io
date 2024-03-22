@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/regulations/</loc>
+    <loc>https://wlpretorius.github.io/regulations/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/regulations/regulations/</loc>
+    <loc>https://wlpretorius.github.io/regulations/regulations/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://wlpretorius.github.io/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://wlpretorius.github.io/categories/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/3.-downturn-identification/</loc>
+    <loc>https://wlpretorius.github.io/posts/3.-downturn-identification/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/introduction/</loc>
+    <loc>https://wlpretorius.github.io/categories/introduction/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://wlpretorius.github.io/posts/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2.-introduction-to-credit-risk/</loc>
+    <loc>https://wlpretorius.github.io/posts/2.-introduction-to-credit-risk/</loc>
     <lastmod>2023-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1.-introduction-to-credit-risk/</loc>
+    <loc>https://wlpretorius.github.io/posts/1.-introduction-to-credit-risk/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://wlpretorius.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/papers/</loc>
+    <loc>https://wlpretorius.github.io/papers/papers/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/</loc>
+    <loc>https://wlpretorius.github.io/books/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/books/</loc>
+    <loc>https://wlpretorius.github.io/books/books/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
+    <loc>https://wlpretorius.github.io/papers/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://wlpretorius.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://wlpretorius.github.io/series/</loc>
   </url>
 </urlset>

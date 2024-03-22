@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on Willem Pretorius</title>
-    <link>http://localhost:1313/papers/</link>
+    <link>https://wlpretorius.github.io/papers/</link>
     <description>Recent content in Papers on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wlpretorius.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic Papers</title>
-      <link>http://localhost:1313/papers/papers/</link>
+      <link>https://wlpretorius.github.io/papers/papers/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/papers/</guid>
+      <guid>https://wlpretorius.github.io/papers/papers/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
   </channel>

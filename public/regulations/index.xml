@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regulations on Willem Pretorius</title>
-    <link>http://localhost:1313/regulations/</link>
+    <link>https://wlpretorius.github.io/regulations/</link>
     <description>Recent content in Regulations on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/regulations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wlpretorius.github.io/regulations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Regulatory Checklist</title>
-      <link>http://localhost:1313/regulations/regulations/</link>
+      <link>https://wlpretorius.github.io/regulations/regulations/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/regulations/regulations/</guid>
+      <guid>https://wlpretorius.github.io/regulations/regulations/</guid>
       <description>&#xD;Info&#xD;In no specific order of importance:&#xD;# Title Year Pages Author 1 Guidelines on the Application of the Definition of Default 2016 107 EBA 2 RTS on Assigning Risk Weights to Specialised Lending Exposures 2016 74 EBA 3 RTS on Assessment Methodology for IRB 2016 167 EBA 4 Guidelines on the Implementation, Validation and Assessment of Advanced Measurement (AMA) and Internal Ratings Based (IRB) Approaches 2006 143 EBA 5 RTS on the Specification of Nature, Severity and Duration of an Economic Downturn 2018 37 EBA 6 Guidelines on Credit Risk Mitigation 2020 103 EBA 7 Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures 2017 200 EBA 8 Capital Requirements Regulation 2013 337 EBA 9 Guidelines on ICAAP and ILAAP Information Collected for SREP Purposes 2016 70 EBA 10 ECB Guide to Internal Models 2019 230 ECB 11 Instructions for Reporting the Validation Results of Internal Models 2019 70 ECB 12 Targeted Review of Internal Models 2021 129 ECB 13 EBA Report on the IRB Modelling Practices 2017 157 EBA 14 IFRS 9 Implementation by EU Institutions 2021 120 EBA 15 Discussion Paper on Machine Learning for IRB Models 2021 29 EBA 16 Results from the 2014 Low Default Portfolio (LDP) Exercise 2015 59 EBA 17 Future of the IRB Approach 2015 60 EBA 18 Validation of Low-Default Portfolios in the Basel II Framework 2005 6 BIS 19 Results from the 2021 Credit Risk Benchmarking Exercise 2022 60 EBA 20 Studies on the Validation of Internal Rating Systems 2005 120 BIS 21 Revised ECB Guide to Internal Models 2023 283 ECB 22 Supervisory Handbook on the Validation of Rating Systems under the Internal Ratings Based Approach 2022 96 EBA 23 Proposal for a Regulation of the European Parliament and of the Council Amending Regulation (EU) No 575/2013 2021 213 EU 24 Model Risk Management 2021 109 OCC 25 The Role of Environmental Risks in the Prudential Framework 2022 80 EBA </description>
     </item>
   </channel>

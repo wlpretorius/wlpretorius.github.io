@@ -25,6 +25,9 @@ noClasses = false
     category = "categories"
     series = "series"
 
+    [params.goatCounter]
+    code = "wlpretorius"
+
     [[params.social]]
     name = "LinkedIn"
     icon = "fa-brands fa-linkedin fa-2x"
