@@ -6,20 +6,13 @@
     <description>Recent content in Categories on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wlpretorius.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Syntax</title>
-      <link>https://wlpretorius.github.io/categories/syntax/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme Demo</title>
-      <link>https://wlpretorius.github.io/categories/theme-demo/</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/categories/theme-demo/</guid>
+      <title>Introduction</title>
+      <link>https://wlpretorius.github.io/categories/introduction/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://wlpretorius.github.io/categories/introduction/</guid>
       <description></description>
     </item>
   </channel>

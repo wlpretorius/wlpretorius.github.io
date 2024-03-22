@@ -50,7 +50,7 @@ noClasses = false
     [[menu.main]]
     name = "Regulations"
     weight = 3
-    url = "/regulations/regulations/"   
+    url = "/regulations/regulations"   
 
     [[menu.main]]
     name = "Academic Papers"
