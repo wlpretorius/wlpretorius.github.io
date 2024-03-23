@@ -6,8 +6,15 @@
     <description>Recent content on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wlpretorius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://wlpretorius.github.io/books/books/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://wlpretorius.github.io/books/books/</guid>
+      <description>&#xD;Info&#xD;These are books that I have found particularly useful in my career so far. They provide a comprehensive overview of the most important topics in credit modelling.&#xD;Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS (Bart Baesens, Daniel Roesch, Harald Scheule) Credit Scoring for Risk Managers: The Handbook for Lenders (Elizabeth Mays, Niall Lynas) Intelligent Credit Scoring (Naeem Siddiqi) Regression Modeling Strategies (Frank E. Harrell, Jr.) The Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman) An Introduction to Statistical Learning (Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani) The StatQuest Illustrated Guide To Machine Learning (Josh Starmer) </description>
+    </item>
     <item>
       <title>Regulatory Checklist</title>
       <link>https://wlpretorius.github.io/regulations/regulations/</link>
@@ -48,14 +55,7 @@
       <link>https://wlpretorius.github.io/papers/papers/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://wlpretorius.github.io/papers/papers/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://wlpretorius.github.io/books/books/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/books/books/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+      <description>Nothing to see here for now&amp;hellip; Will update soon!</description>
     </item>
     <item>
       <title>Contact</title>
