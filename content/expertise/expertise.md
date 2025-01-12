@@ -6,8 +6,6 @@ aliases = ["expertise"]
 author = "Willem Pretorius"
 +++
 
-<h2><u>A-IRB Probability of Default (PD)</u></h2>
-
 ## A-IRB Probability of Default (PD)
 
 I focused in the full model development lifecycle, including:

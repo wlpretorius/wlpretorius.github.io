@@ -46,14 +46,14 @@ noClasses = false
     url = "/about/"
 
     [[menu.main]]
-    name = "Posts"
+    name = "Expertise"
     weight = 2
-    url = "/posts/"
+    url = "/expertise/expertise"   
 
     [[menu.main]]
-    name = "Expertise"
+    name = "Posts"
     weight = 3
-    url = "/expertise/expertise"   
+    url = "/posts/"
 
     [[menu.main]]
     name = "Regulations"
