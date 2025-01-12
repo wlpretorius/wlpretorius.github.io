@@ -61,16 +61,11 @@ noClasses = false
     url = "/regulations/regulations"   
 
     [[menu.main]]
-    name = "Academic Papers"
-    weight = 5
-    url = "/papers/papers"
-
-    [[menu.main]]
     name = "Books"
-    weight = 6
+    weight = 5
     url = "/books/books"
 
     [[menu.main]]
     name = "Contact me"
-    weight = 7
+    weight = 6
     url = "/contact/"
