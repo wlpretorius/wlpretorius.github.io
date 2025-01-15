@@ -22,9 +22,6 @@ This website serves as a professional portfolio, showcasing my journey, projects
 
 On this site, you’ll discover a comprehensive look into my professional endeavors, from innovative methodologies I've employed to detailed explorations of regulatory compliance. It's an invitation to explore the ever-evolving landscape of credit risk analysis, underscored by a commitment to continuous learning and the sharing of knowledge with peers and enthusiasts alike.
 
-## Sponsoring
+## Enquiries
 
-If you like my articles or it was useful for you, consider supporting its development:
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-green.png)](https://www.buymeacoffee.com/wlpretorius)
-
+If you think my experience can benefit your organization, please contact me.
