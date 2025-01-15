@@ -66,6 +66,6 @@ noClasses = false
     url = "/books/books"
 
     [[menu.main]]
-    name = "Contact me"
+    name = "Contact"
     weight = 6
     url = "/contact/"
