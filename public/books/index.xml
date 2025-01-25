@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Willem Pretorius</title>
-    <link>https://wlpretorius.github.io/books/</link>
+    <link>http://localhost:1313/books/</link>
     <description>Recent content in Books on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wlpretorius.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>https://wlpretorius.github.io/books/books/</link>
+      <link>http://localhost:1313/books/books/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/books/books/</guid>
+      <guid>http://localhost:1313/books/books/</guid>
       <description>Info&#xD;These are books that I have found particularly useful in my career so far. They provide a comprehensive overview of the most important topics in credit modelling.&#xD;Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS (Bart Baesens, Daniel Roesch, Harald Scheule). Credit Scoring for Risk Managers: The Handbook for Lenders (Elizabeth Mays, Niall Lynas). Intelligent Credit Scoring (Naeem Siddiqi). Regression Modeling Strategies (Frank E. Harrell, Jr.). The Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman).</description>
     </item>
   </channel>

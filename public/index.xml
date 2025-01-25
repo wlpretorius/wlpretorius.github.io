@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willem Pretorius</title>
-    <link>https://wlpretorius.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wlpretorius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Representativeness - Historical Observation Period</title>
-      <link>https://wlpretorius.github.io/posts/4.-historical-observation-period/</link>
+      <link>http://localhost:1313/posts/4.-historical-observation-period/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/posts/4.-historical-observation-period/</guid>
+      <guid>http://localhost:1313/posts/4.-historical-observation-period/</guid>
       <description>Hello, and welcome!&#xA;Here you will get an overview on the methodology to ensure that the likely range of variability in observed default rates are covered by the historical observation period in A-IRB portfolios for regulatory compliance.&#xA;View the Article in PDF Format:&#xD;Link to heading&#xD;</description>
     </item>
     <item>
       <title>Books</title>
-      <link>https://wlpretorius.github.io/books/books/</link>
+      <link>http://localhost:1313/books/books/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/books/books/</guid>
+      <guid>http://localhost:1313/books/books/</guid>
       <description>Info&#xD;These are books that I have found particularly useful in my career so far. They provide a comprehensive overview of the most important topics in credit modelling.&#xD;Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS (Bart Baesens, Daniel Roesch, Harald Scheule). Credit Scoring for Risk Managers: The Handbook for Lenders (Elizabeth Mays, Niall Lynas). Intelligent Credit Scoring (Naeem Siddiqi). Regression Modeling Strategies (Frank E. Harrell, Jr.). The Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman).</description>
     </item>
     <item>
       <title>Regulatory Checklist</title>
-      <link>https://wlpretorius.github.io/regulations/regulations/</link>
+      <link>http://localhost:1313/regulations/regulations/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/regulations/regulations/</guid>
+      <guid>http://localhost:1313/regulations/regulations/</guid>
       <description>&#xD;Info&#xD;In no specific order of importance:&#xD;# Title Year Pages Author 1 Guidelines on the Application of the Definition of Default 2016 107 EBA 2 RTS on Assigning Risk Weights to Specialised Lending Exposures 2016 74 EBA 3 RTS on Assessment Methodology for IRB 2016 167 EBA 4 Guidelines on the Implementation, Validation and Assessment of Advanced Measurement (AMA) and Internal Ratings Based (IRB) Approaches 2006 143 EBA 5 RTS on the Specification of Nature, Severity and Duration of an Economic Downturn 2018 37 EBA 6 Guidelines on Credit Risk Mitigation 2020 103 EBA 7 Guidelines on PD Estimation, LGD Estimation and Treatment Defaulted Exposures 2017 200 EBA 8 Capital Requirements Regulation 2013 337 EBA 9 Guidelines on ICAAP and ILAAP Information Collected for SREP Purposes 2016 70 EBA 10 ECB Guide to Internal Models 2019 230 ECB 11 Instructions for Reporting the Validation Results of Internal Models 2019 70 ECB 12 Targeted Review of Internal Models 2021 129 ECB 13 EBA Report on the IRB Modelling Practices 2017 157 EBA 14 IFRS 9 Implementation by EU Institutions 2021 120 EBA 15 Discussion Paper on Machine Learning for IRB Models 2021 29 EBA 16 Results from the 2014 Low Default Portfolio (LDP) Exercise 2015 59 EBA 17 Future of the IRB Approach 2015 60 EBA 18 Validation of Low-Default Portfolios in the Basel II Framework 2005 6 BIS 19 Results from the 2021 Credit Risk Benchmarking Exercise 2022 60 EBA 20 Studies on the Validation of Internal Rating Systems 2005 120 BIS 21 Revised ECB Guide to Internal Models 2023 283 ECB 22 Supervisory Handbook on the Validation of Rating Systems under the Internal Ratings Based Approach 2022 96 EBA 23 Proposal for a Regulation of the European Parliament and of the Council Amending Regulation (EU) No 575/2013 2021 213 EU 24 Model Risk Management 2021 109 OCC 25 The Role of Environmental Risks in the Prudential Framework 2022 80 EBA 26 CDR Assessment Methodology 2021 66 EBA 27 Prudential requirements for credit institutions and investment firms 2013 337 EBA 28 Guidelines on loan origination and monitoring 2020 89 EBA 29 RTS under Article 178(6) on the materiality threshold 2016 50 EBA 30 Guidelines for the estimation of LGD appropriate for an economic downturn (‘Downturn LGD estimation’) 2019 80 EBA 31 Guidelines on Credit Risk Mitigation for institutions applying the IRB approach with own estimates of LGDs 2020 60 EBA 32 CDR specifying the nature, severity and duration of an economic downturn 2021 6 EBA 33 COVID-19 Principles 2022 6 EBA </description>
     </item>
     <item>
       <title>Data Science in Credit Risk: Compliant Economic Cycle and Downturn Identification for PDs and LGDs Using Python</title>
-      <link>https://wlpretorius.github.io/posts/3.-downturn-identification/</link>
+      <link>http://localhost:1313/posts/3.-downturn-identification/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/posts/3.-downturn-identification/</guid>
+      <guid>http://localhost:1313/posts/3.-downturn-identification/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an overview to Downturn Identification methods in AIRB portfolios to ensure regulatory compliance. In the future, these articles will be embedded into this site and available for free.</description>
     </item>
     <item>
       <title>An Introduction to Credit Risk in Banking: BASEL, IFRS9, Pricing, Statistics, Machine Learning — PART 2</title>
-      <link>https://wlpretorius.github.io/posts/2.-introduction-to-credit-risk/</link>
+      <link>http://localhost:1313/posts/2.-introduction-to-credit-risk/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/posts/2.-introduction-to-credit-risk/</guid>
+      <guid>http://localhost:1313/posts/2.-introduction-to-credit-risk/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an introduction and overview to basic Credit Risk termonology and ideas (Part 2). In the future, these articles will be embedded into this site and available for free.</description>
     </item>
     <item>
       <title>An Introduction to Credit Risk in Banking: BASEL, IFRS9, Pricing, Statistics, Machine Learning — PART 1</title>
-      <link>https://wlpretorius.github.io/posts/1.-introduction-to-credit-risk/</link>
+      <link>http://localhost:1313/posts/1.-introduction-to-credit-risk/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/posts/1.-introduction-to-credit-risk/</guid>
+      <guid>http://localhost:1313/posts/1.-introduction-to-credit-risk/</guid>
       <description>Hello, and welcome!&#xA;This article is available to read on Medium.&#xA;Here you will get an introduction and overview to basic Credit Risk termonology and ideas. In the future, these articles will be embedded into this site and available for free.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://wlpretorius.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hello and welcome! I&amp;rsquo;m Willem Pretorius, a dedicated professional on Credit Risk in the Netherlands. My foundation is built on an MCom in Mathematical Statistics from the University of Stellenbosch, South Africa, which kick-started my adventure in the complex realm of statistical and regulatory credit risk modelling in Europe and Africa.&#xA;Currently, as a Credit Model Consultant at Quant Professionals B.V., I specialize in the ever changing world of credit risk requirements in Europe from A-IRB modelling and validation to developing Automated Valuation Models (AVMs) for residential mortgages, aligning with the latest European CRR3 regulations.</description>
     </item>
     <item>
       <title>Expertise</title>
-      <link>https://wlpretorius.github.io/expertise/expertise/</link>
+      <link>http://localhost:1313/expertise/expertise/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/expertise/expertise/</guid>
+      <guid>http://localhost:1313/expertise/expertise/</guid>
       <description>Advanced-IRB Loss Given Default (LGD)&#xD;Link to heading&#xD;I focused on the full model development lifecycle (this includes writing code in Python) for Mortgages (Residential) and Corporate (Rural/Agricultural) portfolios as well as updating internal model procedures (Rabobank LGD Model Development Procedure). Further, I obtained experience in both the modelling and calibration of Structural (component-based) and Non-Structural (singular-regression) models, including:&#xA;Model Design: In the one portfolio a significant focus was on Structural components such as Cure, Loss Given Cure (LGC), and LGL (Loss Given Liquidation) while each individual component had their own risk drivers and estimates.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://wlpretorius.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&#xD;Get in Touch!&#xD;Link to heading&#xD;I&amp;rsquo;d love to hear from you. Whether you have a question, a proposal, or simply want to say hello, feel free to reach out. Below you&amp;rsquo;ll find the best ways to contact me.&#xA;Contact Information:&#xD;Link to heading&#xD;Email: wlpretorius@outlook.com LinkedIn: LinkedIn </description>
     </item>
   </channel>
