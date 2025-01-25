@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expertises on Willem Pretorius</title>
+    <link>https://wlpretorius.github.io/expertise/</link>
+    <description>Recent content in Expertises on Willem Pretorius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wlpretorius.github.io/expertise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expertise</title>
+      <link>https://wlpretorius.github.io/expertise/expertise/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://wlpretorius.github.io/expertise/expertise/</guid>
+      <description>Advanced-IRB Loss Given Default (LGD)&#xD;Link to heading&#xD;I focused on the full model development lifecycle (this includes writing code in Python) for Mortgages (Residential) and Corporate (Rural/Agricultural) portfolios as well as updating internal model procedures (Rabobank LGD Model Development Procedure). Further, I obtained experience in both the modelling and calibration of Structural (component-based) and Non-Structural (singular-regression) models, including:&#xA;Model Design: In the one portfolio a significant focus was on Structural components such as Cure, Loss Given Cure (LGC), and LGL (Loss Given Liquidation) while each individual component had their own risk drivers and estimates.</description>
+    </item>
+  </channel>
+</rss>

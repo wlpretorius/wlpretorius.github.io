@@ -6,14 +6,21 @@
     <description>Recent content on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wlpretorius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Representativeness - Historical Observation Period</title>
+      <link>https://wlpretorius.github.io/posts/4.-historical-observation-period/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wlpretorius.github.io/posts/4.-historical-observation-period/</guid>
+      <description>Hello, and welcome!&#xA;Here you will get an overview on the methodology to ensure that the likely range of variability in observed default rates are covered by the historical observation period in A-IRB portfolios for regulatory compliance.&#xA;View the Article in PDF Format:&#xD;Link to heading&#xD;</description>
+    </item>
     <item>
       <title>Books</title>
       <link>https://wlpretorius.github.io/books/books/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://wlpretorius.github.io/books/books/</guid>
-      <description>&#xD;Info&#xD;These are books that I have found particularly useful in my career so far. They provide a comprehensive overview of the most important topics in credit modelling.&#xD;Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS (Bart Baesens, Daniel Roesch, Harald Scheule) Credit Scoring for Risk Managers: The Handbook for Lenders (Elizabeth Mays, Niall Lynas) Intelligent Credit Scoring (Naeem Siddiqi) Regression Modeling Strategies (Frank E. Harrell, Jr.) The Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman) An Introduction to Statistical Learning (Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani) The StatQuest Illustrated Guide To Machine Learning (Josh Starmer) </description>
+      <description>Info&#xD;These are books that I have found particularly useful in my career so far. They provide a comprehensive overview of the most important topics in credit modelling.&#xD;Credit Risk Analytics: Measurement Techniques, Applications, and Examples in SAS (Bart Baesens, Daniel Roesch, Harald Scheule). Credit Scoring for Risk Managers: The Handbook for Lenders (Elizabeth Mays, Niall Lynas). Intelligent Credit Scoring (Naeem Siddiqi). Regression Modeling Strategies (Frank E. Harrell, Jr.). The Elements of Statistical Learning (Trevor Hastie, Robert Tibshirani, Jerome Friedman).</description>
     </item>
     <item>
       <title>Regulatory Checklist</title>
@@ -48,21 +55,21 @@
       <link>https://wlpretorius.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://wlpretorius.github.io/about/</guid>
-      <description>Hello and welcome! I&amp;rsquo;m Willem Pretorius, deeply involved in the evolving world of credit analytics at Rabobank Netherlands. My foundation is built on an MCom in Mathematical Statistics from the University of Stellenbosch, South Africa, which kick-started my adventure in the complex realm of credit risk modelling.&#xA;At Rabobank, I&amp;rsquo;m at the forefront of developing A-IRB PD, LGD, and EAD models, particularly focusing on the Agricultural portfolio. My role revolves around not just applying what I&amp;rsquo;ve learned about PD, LGD, EAD, IFRS9, and Stress Testing models, but also constantly expanding my knowledge and understanding.</description>
+      <description>Hello and welcome! I&amp;rsquo;m Willem Pretorius, a dedicated professional on Credit Risk in the Netherlands. My foundation is built on an MCom in Mathematical Statistics from the University of Stellenbosch, South Africa, which kick-started my adventure in the complex realm of statistical and regulatory credit risk modelling in Europe and Africa.&#xA;Currently, as a Credit Model Consultant at Quant Professionals B.V., I specialize in the ever changing world of credit risk requirements in Europe from A-IRB modelling and validation to developing Automated Valuation Models (AVMs) for residential mortgages, aligning with the latest European CRR3 regulations.</description>
     </item>
     <item>
-      <title>Academic Papers</title>
-      <link>https://wlpretorius.github.io/papers/papers/</link>
+      <title>Expertise</title>
+      <link>https://wlpretorius.github.io/expertise/expertise/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://wlpretorius.github.io/papers/papers/</guid>
-      <description>Nothing to see here for now&amp;hellip; Will update soon!</description>
+      <guid>https://wlpretorius.github.io/expertise/expertise/</guid>
+      <description>Advanced-IRB Loss Given Default (LGD)&#xD;Link to heading&#xD;I focused on the full model development lifecycle (this includes writing code in Python) for Mortgages (Residential) and Corporate (Rural/Agricultural) portfolios as well as updating internal model procedures (Rabobank LGD Model Development Procedure). Further, I obtained experience in both the modelling and calibration of Structural (component-based) and Non-Structural (singular-regression) models, including:&#xA;Model Design: In the one portfolio a significant focus was on Structural components such as Cure, Loss Given Cure (LGC), and LGL (Loss Given Liquidation) while each individual component had their own risk drivers and estimates.</description>
     </item>
     <item>
       <title>Contact</title>
       <link>https://wlpretorius.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wlpretorius.github.io/contact/</guid>
-      <description>&#xD;Get in Touch!&#xD;Link to heading&#xD;I&amp;rsquo;d love to hear from you. Whether you have a question, a proposal, or simply want to say hello, feel free to reach out. Below you&amp;rsquo;ll find the best ways to contact me.&#xA;Other Ways to Contact Me&#xD;Link to heading&#xD;Email: wlpretorius@outlook.com LinkedIn: LinkedIn </description>
+      <description>&#xD;Get in Touch!&#xD;Link to heading&#xD;I&amp;rsquo;d love to hear from you. Whether you have a question, a proposal, or simply want to say hello, feel free to reach out. Below you&amp;rsquo;ll find the best ways to contact me.&#xA;Contact Information:&#xD;Link to heading&#xD;Email: wlpretorius@outlook.com LinkedIn: LinkedIn </description>
     </item>
   </channel>
 </rss>

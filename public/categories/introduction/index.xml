@@ -6,8 +6,15 @@
     <description>Recent content in Introduction on Willem Pretorius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wlpretorius.github.io/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Representativeness - Historical Observation Period</title>
+      <link>https://wlpretorius.github.io/posts/4.-historical-observation-period/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wlpretorius.github.io/posts/4.-historical-observation-period/</guid>
+      <description>Hello, and welcome!&#xA;Here you will get an overview on the methodology to ensure that the likely range of variability in observed default rates are covered by the historical observation period in A-IRB portfolios for regulatory compliance.&#xA;View the Article in PDF Format:&#xD;Link to heading&#xD;</description>
+    </item>
     <item>
       <title>Data Science in Credit Risk: Compliant Economic Cycle and Downturn Identification for PDs and LGDs Using Python</title>
       <link>https://wlpretorius.github.io/posts/3.-downturn-identification/</link>
