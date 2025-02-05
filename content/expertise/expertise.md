@@ -111,6 +111,10 @@ This includes: Stress Testing monitoring procedure. Early Warning Signal models 
 ## Automated Valuation Model (AVM) Development at NIBC Bank:
 Automated Valuation Model (AVM) development for Residential Real Estate (Mortgages) portfolio of NIBC Bank. Developed an in-house AVM for NIBC predicting current market prices of collateral (properties) to comply with the new Europe CRR3. Contributed to the full model development cycle (for Owner Occupied mortgages as well as Buy-to-let mortgages) including SFA, MFA, and Calibration while benchmarking and backtesting against Calcasa (Calcasa is currently the market leader in The Netherlands in providing data related to the market value of the property, but their model is a universal Dutch model not based on the own data of the bank - the majority of banks in the NLs use their service). Developed a dashboard that provides updated market values given location and property characteristics of the property. Additionally, designed an algorithm to provide an estimated collateral value if the property characteristics are not available. 
 
+## Software Stack:
+Python, Azure Databricks, SparkML, SQL, R, C#, Excel & VBA. 
+
+
 ## Enquiries
 
 If you think my experience can benefit your organization, please contact me.
